@@ -25,9 +25,7 @@ public class A1655 {
     }
 
     static void process() {
-        for (int i = 0; i < n; i++) {
-            sb.append()
-        }
+
     }
 }
 
